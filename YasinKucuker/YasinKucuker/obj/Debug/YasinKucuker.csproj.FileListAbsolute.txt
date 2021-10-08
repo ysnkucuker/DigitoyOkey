@@ -1,0 +1,7 @@
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\bin\Debug\YasinKucuker.exe.config
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\bin\Debug\YasinKucuker.exe
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\bin\Debug\YasinKucuker.pdb
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\obj\Debug\YasinKucuker.csproj.AssemblyReference.cache
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\obj\Debug\YasinKucuker.csproj.CoreCompileInputs.cache
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\obj\Debug\YasinKucuker.exe
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\obj\Debug\YasinKucuker.pdb

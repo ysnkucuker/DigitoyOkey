@@ -1,0 +1,6 @@
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\bin\Release\YasinKucuker.exe.config
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\bin\Release\YasinKucuker.exe
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\bin\Release\YasinKucuker.pdb
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\obj\Release\YasinKucuker.csproj.CoreCompileInputs.cache
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\obj\Release\YasinKucuker.exe
+C:\Users\bb\Desktop\Digitoy\YasinKucuker\YasinKucuker\obj\Release\YasinKucuker.pdb
